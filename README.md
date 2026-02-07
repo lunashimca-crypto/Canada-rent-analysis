@@ -1,21 +1,23 @@
 ## Project Overview
-This project explores Canadian rental price data to understand
-regional cost differences across provinces.
+This is a beginner-level data analysis project created as part of my learning process.
+The goal of this project is to practice working with real-world data and to build
+basic analytical skills.
 
-## Data Source
-- Public dataset from Statistics Canada / Kaggle
-
-## Key Questions
-- How do rental prices differ by region?
-- Which provinces show the highest variation?
+## What I Did
+- Explored a public dataset
+- Used Excel to compute basic summaries (mean, median, simple comparisons)
+- Practiced reading and understanding R code for data analysis
 
 ## Tools Used
-- Python (pandas, matplotlib)
-- Excel / Power BI (optional)
+- Microsoft Excel
+- R (basic level)
 
-## Key Findings
-- Major urban provinces show significantly higher average rents
-- Price variation is larger in metropolitan areas
+## Learning Focus
+This project focuses on:
+- Understanding the structure of datasets
+- Performing simple data analysis
+- Interpreting results in a clear and structured way
 
 ## Notes
-This is a small personal project created for learning and portfolio purposes.
+This project is intended for learning and portfolio development.
+I am currently at a beginner level and continuously improving my skills.
